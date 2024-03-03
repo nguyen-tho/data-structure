@@ -7,7 +7,7 @@ Data structure and algorithm lecture
 - exchange sort
 - merge sort
 - quick sort
-- stack (incomplete)
+- stack 
 - queue
 - linked list
 - double linked list
