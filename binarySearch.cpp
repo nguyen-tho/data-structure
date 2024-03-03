@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-//thuật toàn binary search chỉ dùng khi mảng đã được sắp xếp 
+
 void input(int a[], int &n)
 {
     cin>>n;
